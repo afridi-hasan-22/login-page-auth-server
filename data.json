@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Earphones",
+    "price": 29.99,
+    "description": "Enjoy the freedom of wireless listening with these high-quality Bluetooth earphones. With crystal clear sound and a comfortable fit, these earphones are perfect for workouts, commutes, and everyday use.",
+    "duration": "6 hours battery life"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Tripod Stand",
+    "price": 19.99,
+    "description": "Capture steady photos and videos with ease using this adjustable smartphone tripod stand. Whether you're recording a vlog, taking a group photo, or streaming live, this tripod ensures stable shots every time.",
+    "duration": "Adjustable height up to 3 feet"
+  },
+  {
+    "id": 3,
+    "name": "Portable External Battery Charger",
+    "price": 39.99,
+    "description": "Never run out of battery again with this powerful external battery charger. With a capacity of 10,000mAh, this portable charger can fully charge your smartphone multiple times on the go.",
+    "duration": "Charges up to 3 devices simultaneously"
+  },
+  {
+    "id": 4,
+    "name": "Professional DSLR Camera",
+    "price": 899.99,
+    "description": "Capture stunning photos and videos with this professional DSLR camera. With advanced features and high-quality lenses, this camera is perfect for photography enthusiasts and professionals alike.",
+    "duration": "4K video recording capability"
+  },
+  {
+    "id": 5,
+    "name": "Wireless Gaming Mouse",
+    "price": 49.99,
+    "description": "Dominate your gaming sessions with this ergonomic wireless gaming mouse. With customizable buttons, adjustable DPI settings, and ultra-fast response times, this mouse gives you the competitive edge.",
+    "duration": "Up to 50 hours of battery life"
+  },
+  {
+    "id": 6,
+    "name": "Fitness Tracker Watch",
+    "price": 79.99,
+    "description": "Track your daily activities, monitor your heart rate, and stay connected on the go with this sleek fitness tracker watch. With a long battery life and waterproof design, it's perfect for active lifestyles.",
+    "duration": "Waterproof up to 50 meters"
+  }
+]
